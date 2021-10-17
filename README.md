@@ -1,8 +1,8 @@
 ## Pinned Repo
-[![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
-[![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s)](https://github.com/anuraghazra/github-readme-stats)
 
