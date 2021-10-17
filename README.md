@@ -60,3 +60,6 @@ Last Updated: Sunday, October 17th, 2021, 1:02:23 PM
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sk5s&label=Profile%20views&color=0e75b6&style=flat" alt="sk5s" /></p>
