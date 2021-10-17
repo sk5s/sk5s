@@ -1,14 +1,16 @@
+## 此介紹尚未完成！
+
 ## Pinned Repo
 [![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
-[![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
 
-[![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s)](https://github.com/anuraghazra/github-readme-stats)
+[![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
 
 
 ## ⚡ Github Stats
-![](https://sk5sreadmestats.vercel.app/api?username=samko5sam&show_icons=true&theme=vue)
+![](https://sk5sreadmestats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)
 
 ## ⚡ Activity
 
