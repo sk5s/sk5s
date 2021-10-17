@@ -1,5 +1,9 @@
 ## 此介紹尚未完成！
 
+<div width="100%">
+  <img width="100%" src="https://carbon.now.sh/embed/a3d7731f5db5953625ba9c7ba8366137" alt="hi">
+</div>
+
 ## Pinned Repo
 [![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
