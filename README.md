@@ -1,7 +1,7 @@
 ## 此介紹尚未完成！
 
 <div width="100%">
-  <img src="https://imgur.com/GpLlMiq" alt="hi" width="100%">
+  <img src="https://i.imgur.com/GpLlMiq.png" alt="hi" width="100%">
 </div>
 
 ## Pinned Repo
