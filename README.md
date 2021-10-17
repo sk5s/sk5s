@@ -1,7 +1,7 @@
 ## 此介紹尚未完成！
 
 <div width="100%">
-  <img width="100%" src="https://carbon.now.sh/embed/a3d7731f5db5953625ba9c7ba8366137" alt="hi">
+  <iframe width="100%" src="https://carbon.now.sh/embed/a3d7731f5db5953625ba9c7ba8366137"></iframe>
 </div>
 
 ## Pinned Repo
