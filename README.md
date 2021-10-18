@@ -13,10 +13,10 @@
 [![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
 
 
-## ⚡ Github Stats
+## ⚡ 狀態 Github Stats
 ![](https://sk5sreadmestats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)
 
-## ⚡ Activity
+## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
@@ -30,7 +30,7 @@
 Last Updated: Monday, October 18th, 2021, 1:08:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-## ⚒️ Languages and Tools
+## ⚒️ 語言與工具 Languages and Tools
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
