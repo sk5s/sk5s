@@ -4,10 +4,10 @@
   <img src="https://i.imgur.com/GpLlMiq.png" alt="hi" width="100%">
 </div>
 
-## Pinned Repo
+## 📌釘選 Pinned Repo
 [![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## Most Used Languages
+## ⬆️ 語言 Most Used Languages
 [![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
 
 [![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
@@ -64,6 +64,3 @@ Last Updated: Monday, October 18th, 2021, 1:08:11 PM
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sk5s&label=Profile%20views&color=0e75b6&style=flat" alt="sk5s" /></p>
