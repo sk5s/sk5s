@@ -5,16 +5,16 @@
 </div>
 
 ## 📌釘選 Pinned Repo
-[![Readme Card](https://sk5sreadmestats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⬆️ 語言 Most Used Languages
-[![Top Langs](https://sk5sreadmestats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
 
-[![sk5s's wakatime stats](https://sk5sreadmestats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
+[![sk5s's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
 
 
 ## ⚡ 狀態 Github Stats
-![](https://sk5sreadmestats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)
 
 ## ⚡ 活動 Activity
 
