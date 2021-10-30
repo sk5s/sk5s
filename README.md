@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jsolink/jsolink.github.io](https://github.com/jsolink/jsolink.github.io)
-2. 📔 Created new repository [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. 📔 Created new repository [sk5s/sk5s.github.io](https://github.com/sk5s/sk5s.github.io)
-4. ✌️ Released [20211017](https://github.com/sk5s/sk5s/releases/tag/20211017) in [sk5s/sk5s](https://github.com/sk5s/sk5s)
-5. 📔 Created new repository [sk5s/sk5s](https://github.com/sk5s/sk5s)
+1. 📖 Created new wiki page [出現問題](https://github.com/sk5s/sk5short-one/wiki/%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
+2. 📖 Created new wiki page [_Footer](https://github.com/sk5s/sk5short-one/wiki/_Footer) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
+3. 📖 Created new wiki page [簡易使用教學(github-page)](https://github.com/sk5s/sk5short-one/wiki/%E7%B0%A1%E6%98%93%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%28github-page%29) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
+4. 📖 Created new wiki page [Home](https://github.com/sk5s/sk5short-one/wiki/Home) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
+5. 📔 Created new repository [jsolink/jsolink.github.io](https://github.com/jsolink/jsolink.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 30th, 2021, 6:22:02 AM
+Last Updated: Saturday, October 30th, 2021, 12:28:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
