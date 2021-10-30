@@ -10,6 +10,7 @@
 
 ## 📌釘選 Pinned Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![sk5short-one](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5short-one&show_owner=true&theme=vue)](https://github.com/sk5s/sk5short-one)
 
 ## ⬆️ 語言 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
@@ -18,7 +19,7 @@
 
 
 ## ⚡ 狀態 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)
+[![](https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)](https://github.com/sk5s)
 
 ## ⚡ 活動 Activity
 
