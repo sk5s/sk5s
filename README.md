@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [出現問題](https://github.com/sk5s/sk5short-one/wiki/%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
-2. 📖 Created new wiki page [_Footer](https://github.com/sk5s/sk5short-one/wiki/_Footer) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
-3. 📖 Created new wiki page [簡易使用教學(github-page)](https://github.com/sk5s/sk5short-one/wiki/%E7%B0%A1%E6%98%93%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%28github-page%29) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
-4. 📖 Created new wiki page [Home](https://github.com/sk5s/sk5short-one/wiki/Home) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
-5. 📔 Created new repository [jsolink/jsolink.github.io](https://github.com/jsolink/jsolink.github.io)
+1. 🎉 Merged PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. 💪 Opened PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+3. ✌️ Released [v0.2.0](https://github.com/sk5s/alsoweather/releases/tag/v0.2.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+4. ✌️ Released [v0.1.0](https://github.com/sk5s/alsoweather/releases/tag/v0.1.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. 📖 Created new wiki page [出現問題](https://github.com/sk5s/sk5short-one/wiki/%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 30th, 2021, 6:21:20 PM
+Last Updated: Sunday, October 31st, 2021, 1:03:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
