@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jsolink/.github](https://github.com/jsolink/.github)
-2. 🎉 Merged PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. 💪 Opened PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. ✌️ Released [v0.2.0](https://github.com/sk5s/alsoweather/releases/tag/v0.2.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-5. ✌️ Released [v0.1.0](https://github.com/sk5s/alsoweather/releases/tag/v0.1.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+1. 📔 Created new repository [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
+2. 📔 Created new repository [jsolink/.github](https://github.com/jsolink/.github)
+3. 🎉 Merged PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+4. 💪 Opened PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. ✌️ Released [v0.2.0](https://github.com/sk5s/alsoweather/releases/tag/v0.2.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 5th, 2021, 1:06:40 PM
+Last Updated: Friday, November 5th, 2021, 6:41:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
