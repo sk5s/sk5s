@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.2.0](https://github.com/sk5s/english-words-list/releases/tag/v0.2.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
-2. ✌️ Released [v0.1.0](https://github.com/sk5s/english-words-list/releases/tag/v0.1.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
-3. 📔 Created new repository [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
-4. 📔 Created new repository [jsolink/.github](https://github.com/jsolink/.github)
-5. 🎉 Merged PR [#1](https://github.com/sk5s/alsoweather/pull/1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+1. 📔 Created new repository [sk5s/alsoweather-m](https://github.com/sk5s/alsoweather-m)
+2. ✌️ Released [v0.3.0](https://github.com/sk5s/alsoweather/releases/tag/v0.3.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+3. 📔 Created new repository [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
+4. ✌️ Released [v0.2.0](https://github.com/sk5s/english-words-list/releases/tag/v0.2.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
+5. ✌️ Released [v0.1.0](https://github.com/sk5s/english-words-list/releases/tag/v0.1.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 6th, 2021, 6:45:15 AM
+Last Updated: Saturday, November 6th, 2021, 1:04:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
