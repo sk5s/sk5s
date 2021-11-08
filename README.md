@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sk5s/auth0-sync](https://github.com/sk5s/auth0-sync)
-2. 📔 Created new repository [sk5s/alsoweather-m](https://github.com/sk5s/alsoweather-m)
-3. ✌️ Released [v0.3.0](https://github.com/sk5s/alsoweather/releases/tag/v0.3.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. 📔 Created new repository [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
-5. ✌️ Released [v0.2.0](https://github.com/sk5s/english-words-list/releases/tag/v0.2.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
+1. 📔 Created new repository [sk5s/sk5short](https://github.com/sk5s/sk5short)
+2. 📔 Created new repository [sk5s/auth0-sync](https://github.com/sk5s/auth0-sync)
+3. 📔 Created new repository [sk5s/alsoweather-m](https://github.com/sk5s/alsoweather-m)
+4. ✌️ Released [v0.3.0](https://github.com/sk5s/alsoweather/releases/tag/v0.3.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. 📔 Created new repository [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 8th, 2021, 6:49:57 AM
+Last Updated: Monday, November 8th, 2021, 1:07:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
