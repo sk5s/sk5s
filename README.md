@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.3.0](https://github.com/sk5s/alsoweather-docs/releases/tag/v0.3.0) in [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
-2. ⭐ Starred [sk5s/sk5short](https://github.com/sk5s/sk5short)
-3. ⭐ Starred [sk5s/sk5s](https://github.com/sk5s/sk5s)
-4. ⭐ Starred [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
-5. ⭐ Starred [sk5s/uptime](https://github.com/sk5s/uptime)
+1. ✌️ Released [v1.1.0](https://github.com/sk5s/sk5short/releases/tag/v1.1.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
+2. 📔 Created new repository [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+3. ✌️ Released [v0.3.0](https://github.com/sk5s/alsoweather-docs/releases/tag/v0.3.0) in [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
+4. ⭐ Starred [sk5s/sk5short](https://github.com/sk5s/sk5short)
+5. ⭐ Starred [sk5s/sk5s](https://github.com/sk5s/sk5s)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 6:21:40 PM
+Last Updated: Sunday, November 14th, 2021, 1:04:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
