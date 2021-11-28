@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.2.0](https://github.com/sk5s/sk5short/releases/tag/v1.2.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-2. 🎉 Merged PR [#1](https://github.com/sk5s/sk5short/pull/1) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-3. 💪 Opened PR [#1](https://github.com/sk5s/sk5short/pull/1) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-4. ✌️ Released [v1.1.0](https://github.com/sk5s/sk5short/releases/tag/v1.1.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-5. 📔 Created new repository [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+1. ✌️ Released [v1.2.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.2.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+2. ✌️ Released [v1.1.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.1.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+3. ✌️ Released [v1.0.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.0.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+4. 📔 Created new repository [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 28th, 2021, 6:22:53 AM
+Last Updated: Sunday, November 28th, 2021, 12:29:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
