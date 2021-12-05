@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sk5s/freecodecamp](https://github.com/sk5s/freecodecamp)
-2. ⭐ Starred [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
-3. ✌️ Released [v0.4.0](https://github.com/sk5s/alsoweather/releases/tag/v0.4.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. ✌️ Released [v1.2.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.2.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
-5. ✌️ Released [v1.1.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.1.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+1. ✌️ Released [v0.5.0](https://github.com/sk5s/alsoweather/releases/tag/v0.5.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. 📔 Created new repository [sk5s/freecodecamp](https://github.com/sk5s/freecodecamp)
+3. ⭐ Starred [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+4. ✌️ Released [v0.4.0](https://github.com/sk5s/alsoweather/releases/tag/v0.4.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. ✌️ Released [v1.2.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.2.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 5th, 2021, 12:30:07 PM
+Last Updated: Sunday, December 5th, 2021, 6:22:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
