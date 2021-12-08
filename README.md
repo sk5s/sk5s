@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/jsolink/404shortjs/releases/tag/v0.1.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
-2. 📔 Created new repository [sk5s/alsoparking](https://github.com/sk5s/alsoparking)
-3. ✌️ Released [v0.5.0](https://github.com/sk5s/alsoweather/releases/tag/v0.5.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. 📔 Created new repository [sk5s/freecodecamp](https://github.com/sk5s/freecodecamp)
-5. ⭐ Starred [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+1. ✌️ Released [v0.3.0](https://github.com/jsolink/404shortjs/releases/tag/v0.3.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+2. ✌️ Released [v0.1.0](https://github.com/jsolink/404shortjs/releases/tag/v0.1.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+3. 📔 Created new repository [sk5s/alsoparking](https://github.com/sk5s/alsoparking)
+4. ✌️ Released [v0.5.0](https://github.com/sk5s/alsoweather/releases/tag/v0.5.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. 📔 Created new repository [sk5s/freecodecamp](https://github.com/sk5s/freecodecamp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 8th, 2021, 6:23:56 AM
+Last Updated: Wednesday, December 8th, 2021, 12:31:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
