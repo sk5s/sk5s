@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.6.0](https://github.com/sk5s/alsoweather/releases/tag/v0.6.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-2. 💪 Opened PR [#47](https://github.com/manucaralmo/GlowCookies/pull/47) in [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies)
-3. 🔱 Forked [sk5s/s](https://github.com/sk5s/s) from [hcsc-25th/s](https://github.com/hcsc-25th/s)
-4. ✌️ Released [v0.3.0](https://github.com/jsolink/404shortjs/releases/tag/v0.3.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
-5. ✌️ Released [v0.1.0](https://github.com/jsolink/404shortjs/releases/tag/v0.1.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+1. ⭐ Starred [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies)
+2. ⭐ Starred [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
+3. 💪 Opened PR [#113](https://github.com/alyssaxuu/screenity/pull/113) in [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
+4. ✌️ Released [v0.6.0](https://github.com/sk5s/alsoweather/releases/tag/v0.6.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. 💪 Opened PR [#47](https://github.com/manucaralmo/GlowCookies/pull/47) in [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 16th, 2021, 12:31:48 PM
+Last Updated: Thursday, December 16th, 2021, 6:23:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
