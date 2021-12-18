@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-2. ⭐ Starred [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-3. ⭐ Starred [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies)
-4. ⭐ Starred [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
-5. 💪 Opened PR [#113](https://github.com/alyssaxuu/screenity/pull/113) in [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
+1. ✌️ Released [v1.3.0](https://github.com/sk5s/sk5short/releases/tag/v1.3.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
+2. ✌️ Released [v0.4.0](https://github.com/jsolink/404shortjs/releases/tag/v0.4.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+3. ⭐ Starred [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+4. ✌️ Released [v0.4.0](https://github.com/jsolink/404shortjs/releases/tag/v0.4.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+5. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 18th, 2021, 6:23:53 AM
+Last Updated: Saturday, December 18th, 2021, 12:30:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
