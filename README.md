@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.0](https://github.com/sk5s/sk5short/releases/tag/v1.3.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-2. ✌️ Released [v0.4.0](https://github.com/jsolink/404shortjs/releases/tag/v0.4.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
-3. ⭐ Starred [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
-4. ✌️ Released [v0.4.0](https://github.com/jsolink/404shortjs/releases/tag/v0.4.0) in [jsolink/404shortjs](https://github.com/jsolink/404shortjs)
+1. ⭐ Starred [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+2. 📖 Created new wiki page [簡易使用教學(degit)](https://github.com/sk5s/sk5short-one/wiki/%E7%B0%A1%E6%98%93%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%28degit%29) in [sk5s/sk5short-one](https://github.com/sk5s/sk5short-one)
+3. ✌️ Released [v1.4.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.4.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+4. ✌️ Released [v0.6.0](https://github.com/sk5s/alsoweather-docs/releases/tag/v0.6.0) in [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
 5. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 1:01:57 AM
+Last Updated: Saturday, January 22nd, 2022, 6:21:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
