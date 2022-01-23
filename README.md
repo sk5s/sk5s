@@ -70,4 +70,4 @@ Last Updated: Sunday, January 23rd, 2022, 1:04:40 AM
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-![sk5s project](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
+![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
