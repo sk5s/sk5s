@@ -4,19 +4,21 @@
 
 [![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
 
-<div width="100%">
+<!-- <div width="100%">
   <img src="https://i.imgur.com/GpLlMiq.png" alt="hi" width="100%">
-</div>
+</div> -->
 
 ## 📌釘選 Pinned Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+[![alsoweather](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=alsoweather&show_owner=true&theme=vue)](https://git.io/alsoweather)
+[![sk5short](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5short&show_owner=true&theme=vue)](https://git.io/sk5short)
+[![sk5s-vsgt](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5s-vsgt&show_owner=true&theme=vue)](https://git.io/sk5s-vsgt)
+[![english-words-list](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=english-words-list&show_owner=true&theme=vue)](https://git.io/en-words)
 [![sk5short-one](https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5short-one&show_owner=true&theme=vue)](https://github.com/sk5s/sk5short-one)
 
 ## ⬆️ 語言 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&layout=compact&theme=vue)](https://github.com/sk5s)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&theme=vue)](https://github.com/sk5s)
 [![sk5s's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sk5s&theme=vue)](https://github.com/sk5s)
-
 
 ## ⚡ 狀態 Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue)](https://github.com/sk5s)
