@@ -1,7 +1,4 @@
 # About sk5s
-
-## 此介紹尚未完成！
-
 [![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
 
 <!-- <div width="100%">
