@@ -24,15 +24,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [gopenso/linux-install-chinese-traditional-fonts](https://github.com/gopenso/linux-install-chinese-traditional-fonts)
-2. ✌️ Released [v0.7.0](https://github.com/sk5s/alsoweather/releases/tag/v0.7.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. ✌️ Released [v1.4.0](https://github.com/sk5s/sk5short/releases/tag/v1.4.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
-4. ⭐ Starred [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
-5. ⭐ Starred [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+1. 📔 Created new repository [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
+2. 📔 Created new repository [gopenso/linux-install-chinese-traditional-fonts](https://github.com/gopenso/linux-install-chinese-traditional-fonts)
+3. ✌️ Released [v0.7.0](https://github.com/sk5s/alsoweather/releases/tag/v0.7.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+4. ✌️ Released [v1.4.0](https://github.com/sk5s/sk5short/releases/tag/v1.4.0) in [sk5s/sk5short](https://github.com/sk5s/sk5short)
+5. ⭐ Starred [sk5s/alsoweather-docs](https://github.com/sk5s/alsoweather-docs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 27th, 2022, 6:22:35 PM
+Last Updated: Friday, January 28th, 2022, 1:04:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
