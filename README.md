@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sk5s/screenode](https://github.com/sk5s/screenode)
-2. ⭐ Starred [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
-3. 📔 Created new repository [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
-4. 📔 Created new repository [gopenso/linux-install-chinese-traditional-fonts](https://github.com/gopenso/linux-install-chinese-traditional-fonts)
-5. ✌️ Released [v0.7.0](https://github.com/sk5s/alsoweather/releases/tag/v0.7.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+1. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+3. 📔 Created new repository [sk5s/screenode](https://github.com/sk5s/screenode)
+4. ⭐ Starred [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
+5. 📔 Created new repository [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 11th, 2022, 12:28:41 PM
+Last Updated: Friday, February 11th, 2022, 6:21:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
