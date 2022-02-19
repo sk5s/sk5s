@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-2. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. 📔 Created new repository [sk5s/screenode](https://github.com/sk5s/screenode)
-4. ⭐ Starred [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
-5. 📔 Created new repository [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
+1. 📔 Created new repository [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30)
+2. 🔱 Forked [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30) from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+3. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+4. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. 📔 Created new repository [sk5s/screenode](https://github.com/sk5s/screenode)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 19th, 2022, 1:10:00 AM
+Last Updated: Saturday, February 19th, 2022, 6:22:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
