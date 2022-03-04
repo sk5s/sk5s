@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sk5s/tw-en-open-font](https://github.com/sk5s/tw-en-open-font)
-2. 📔 Created new repository [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30)
-3. 🔱 Forked [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30) from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-4. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+1. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+2. 📔 Created new repository [sk5s/tw-en-open-font](https://github.com/sk5s/tw-en-open-font)
+3. 📔 Created new repository [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30)
+4. 🔱 Forked [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30) from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 5. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 4th, 2022, 12:32:23 PM
+Last Updated: Friday, March 4th, 2022, 6:23:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
