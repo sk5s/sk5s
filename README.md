@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.0](https://github.com/sk5s/countdateapp/releases/tag/v1.3.0) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. 📔 Created new repository [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. 📔 Created new repository [sk5s/countdate](https://github.com/sk5s/countdate)
-4. 🔱 Forked [sk5s/JavaScript30](https://github.com/sk5s/JavaScript30) from [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+1. ✌️ Released [v1.3.1](https://github.com/sk5s/countdateapp/releases/tag/v1.3.1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. ✌️ Released [v1.3.0](https://github.com/sk5s/countdateapp/releases/tag/v1.3.0) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. 📔 Created new repository [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+4. 📔 Created new repository [sk5s/countdate](https://github.com/sk5s/countdate)
 5. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 23rd, 2022, 6:23:51 PM
+Last Updated: Sunday, April 24th, 2022, 1:41:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
