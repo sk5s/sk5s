@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.3](https://github.com/sk5s/countdateapp/releases/tag/v1.3.3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. ✌️ Released [v1.3.1](https://github.com/sk5s/countdateapp/releases/tag/v1.3.1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. ✌️ Released [v1.3.0](https://github.com/sk5s/countdateapp/releases/tag/v1.3.0) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-4. 📔 Created new repository [sk5s/countdate](https://github.com/sk5s/countdate)
-5. ✌️ Released [v0.8.0](https://github.com/sk5s/alsoweather/releases/tag/v0.8.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+1. 📔 Created new repository [sk5s/countdate-landing](https://github.com/sk5s/countdate-landing)
+2. ✌️ Released [v1.3.6](https://github.com/sk5s/countdateapp/releases/tag/v1.3.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ✌️ Released [v1.3.5](https://github.com/sk5s/countdateapp/releases/tag/v1.3.5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+4. ✌️ Released [v1.3.4](https://github.com/sk5s/countdateapp/releases/tag/v1.3.4) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+5. ✌️ Released [v1.3.3](https://github.com/sk5s/countdateapp/releases/tag/v1.3.3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 21st, 2022, 6:27:04 AM
+Last Updated: Saturday, May 21st, 2022, 12:35:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
