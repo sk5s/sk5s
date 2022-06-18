@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.6](https://github.com/sk5s/countdateapp/releases/tag/v1.3.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. ✌️ Released [v1.0.0](https://github.com/sk5s/parking-go-web/releases/tag/v1.0.0) in [sk5s/parking-go-web](https://github.com/sk5s/parking-go-web)
+1. ✌️ Released [v1.0.0](https://github.com/sk5s/english-words-list/releases/tag/v1.0.0) in [sk5s/english-words-list](https://github.com/sk5s/english-words-list)
+2. ✌️ Released [v1.3.6](https://github.com/sk5s/countdateapp/releases/tag/v1.3.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 3. 📔 Created new repository [sk5s/countdate-landing](https://github.com/sk5s/countdate-landing)
 4. ✌️ Released [v1.3.6](https://github.com/sk5s/countdateapp/releases/tag/v1.3.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 5. ✌️ Released [v1.3.5](https://github.com/sk5s/countdateapp/releases/tag/v1.3.5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 18th, 2022, 1:55:21 AM
+Last Updated: Saturday, June 18th, 2022, 6:23:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
