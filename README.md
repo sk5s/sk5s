@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sk5s/masontv](https://github.com/sk5s/masontv)
-2. 📔 Created new repository [sk5s/chineseoo](https://github.com/sk5s/chineseoo)
-3. 🔱 Forked [sk5s/s](https://github.com/sk5s/s) from [hcsc-25th/s](https://github.com/hcsc-25th/s)
-4. ✌️ Released [v1.3.6](https://github.com/sk5s/countdateapp/releases/tag/v1.3.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. 🎉 Merged PR [#2](https://github.com/sk5s/alsoweather/pull/2) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. 📔 Created new repository [sk5s/masontv](https://github.com/sk5s/masontv)
+3. 📔 Created new repository [sk5s/chineseoo](https://github.com/sk5s/chineseoo)
+4. 🔱 Forked [sk5s/s](https://github.com/sk5s/s) from [hcsc-25th/s](https://github.com/hcsc-25th/s)
 5. ✌️ Released [v1.3.5](https://github.com/sk5s/countdateapp/releases/tag/v1.3.5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 14th, 2022, 2:17:23 AM
+Last Updated: Thursday, July 14th, 2022, 6:26:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
