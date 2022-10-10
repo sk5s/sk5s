@@ -23,7 +23,7 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sk5s/tw-en-open-font](https://github.com/sk5s/tw-en-open-font)
+1. ✌️ Released [v1.3.7](https://github.com/sk5s/countdateapp/releases/tag/v1.3.7) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 2. ⭐ Starred [sk5s/countdate-landing](https://github.com/sk5s/countdate-landing)
 3. ⭐ Starred [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 4. ⭐ Starred [sk5s/masontv](https://github.com/sk5s/masontv)
@@ -31,7 +31,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 10th, 2022, 6:52:40 AM
+Last Updated: Monday, October 10th, 2022, 12:55:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
