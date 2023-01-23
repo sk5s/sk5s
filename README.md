@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.0](https://github.com/sk5s/alsoweather/releases/tag/v1.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-2. ⭐ Starred [sk5s/countdate-landing](https://github.com/sk5s/countdate-landing)
+1. ✌️ Released [v1.5.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.5.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+2. ✌️ Released [v1.0.0](https://github.com/sk5s/alsoweather/releases/tag/v1.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 3. ⭐ Starred [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 4. ⭐ Starred [sk5s/masontv](https://github.com/sk5s/masontv)
 5. ⭐ Starred [sk5s/chineseoo](https://github.com/sk5s/chineseoo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 23rd, 2023, 1:25:46 AM
+Last Updated: Monday, January 23rd, 2023, 12:26:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
