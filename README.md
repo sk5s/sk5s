@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.5.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.5.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
-2. ✌️ Released [v1.0.0](https://github.com/sk5s/alsoweather/releases/tag/v1.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. ⭐ Starred [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-4. ⭐ Starred [sk5s/masontv](https://github.com/sk5s/masontv)
+1. ✌️ Released [v1.3.8](https://github.com/sk5s/countdateapp/releases/tag/v1.3.8) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. ✌️ Released [v1.3.8](https://github.com/sk5s/countdateapp/releases/tag/v1.3.8) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ✌️ Released [v1.5.0](https://github.com/sk5s/sk5s-vsgt/releases/tag/v1.5.0) in [sk5s/sk5s-vsgt](https://github.com/sk5s/sk5s-vsgt)
+4. ✌️ Released [v1.0.0](https://github.com/sk5s/alsoweather/releases/tag/v1.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 5. ⭐ Starred [sk5s/chineseoo](https://github.com/sk5s/chineseoo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 26th, 2023, 1:10:02 AM
+Last Updated: Thursday, January 26th, 2023, 12:28:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
