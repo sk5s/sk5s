@@ -71,3 +71,5 @@ Last Updated: Friday, February 10th, 2023, 12:30:16 AM
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
+
+<a href='https://ko-fi.com/J3J3IM7SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
