@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.9](https://github.com/sk5s/countdateapp/releases/tag/v1.3.9) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. 🎉 Merged PR [#1](https://github.com/sk5s/countdateapp/pull/1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. 📔 Created new repository [sk5s/translator-home](https://github.com/sk5s/translator-home)
-4. ✌️ Released [v1.3.8](https://github.com/sk5s/countdateapp/releases/tag/v1.3.8) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. ✌️ Released [v1.3.8](https://github.com/sk5s/countdateapp/releases/tag/v1.3.8) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ❗️ Opened issue [#5](https://github.com/sk5s/countdateapp/issues/5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. ✔️ Closed issue [#3](https://github.com/sk5s/countdateapp/issues/3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ✌️ Released [v1.4.0](https://github.com/sk5s/countdateapp/releases/tag/v1.4.0) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+4. 🎉 Merged PR [#4](https://github.com/sk5s/countdateapp/pull/4) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+5. ✌️ Released [v1.3.9](https://github.com/sk5s/countdateapp/releases/tag/v1.3.9) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 10th, 2023, 12:30:16 AM
+Last Updated: Saturday, February 11th, 2023, 12:23:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
