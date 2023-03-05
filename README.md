@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7](https://github.com/sk5s/countdateapp/issues/7) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. ✌️ Released [v2.0.1](https://github.com/sk5s/alsoweather/releases/tag/v2.0.1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. ✌️ Released [v2.0.0](https://github.com/sk5s/alsoweather/releases/tag/v2.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. ✌️ Released [v1.4.3](https://github.com/sk5s/countdateapp/releases/tag/v1.4.3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. ✔️ Closed issue [#6](https://github.com/sk5s/countdateapp/issues/6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ✌️ Released [v2.0.2](https://github.com/sk5s/alsoweather/releases/tag/v2.0.2) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. ✔️ Closed issue [#7](https://github.com/sk5s/countdateapp/issues/7) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ✌️ Released [v2.0.1](https://github.com/sk5s/alsoweather/releases/tag/v2.0.1) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+4. ✌️ Released [v2.0.0](https://github.com/sk5s/alsoweather/releases/tag/v2.0.0) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+5. ✌️ Released [v1.4.3](https://github.com/sk5s/countdateapp/releases/tag/v1.4.3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 4th, 2023, 12:27:45 AM
+Last Updated: Sunday, March 5th, 2023, 12:32:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
