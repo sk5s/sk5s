@@ -23,15 +23,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jsolink/jsotranslate](https://github.com/jsolink/jsotranslate)
-2. ✌️ Released [v1.5.1](https://github.com/sk5s/countdateapp/releases/tag/v1.5.1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. ✔️ Closed issue [#12](https://github.com/sk5s/countdateapp/issues/12) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-4. 📖 Created new wiki page [Edit-countdate-description](https://github.com/sk5s/countdateapp/wiki/Edit-countdate-description) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. ✌️ Released [v1.5.0](https://github.com/sk5s/countdateapp/releases/tag/v1.5.0) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ✔️ Closed issue [#14](https://github.com/sk5s/countdateapp/issues/14) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. 📔 Created new repository [jsolink/jsotranslate](https://github.com/jsolink/jsotranslate)
+3. ✌️ Released [v1.5.1](https://github.com/sk5s/countdateapp/releases/tag/v1.5.1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+4. ✔️ Closed issue [#12](https://github.com/sk5s/countdateapp/issues/12) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+5. 📖 Created new wiki page [Edit-countdate-description](https://github.com/sk5s/countdateapp/wiki/Edit-countdate-description) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 27th, 2023, 12:27:54 AM
+Last Updated: Friday, April 28th, 2023, 12:26:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
