@@ -25,15 +25,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sk5s/tw-en-open-font](https://github.com/sk5s/tw-en-open-font)
-2. ✔️ Closed issue [#14](https://github.com/sk5s/countdateapp/issues/14) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. 📔 Created new repository [jsolink/jsotranslate](https://github.com/jsolink/jsotranslate)
-4. ✌️ Released [v1.5.1](https://github.com/sk5s/countdateapp/releases/tag/v1.5.1) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. 📖 Created new wiki page [Edit-countdate-description](https://github.com/sk5s/countdateapp/wiki/Edit-countdate-description) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ❗️ Opened issue [#18](https://github.com/sk5s/countdateapp/issues/18) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. ✔️ Closed issue [#15](https://github.com/sk5s/countdateapp/issues/15) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ⭐ Starred [sk5s/tw-en-open-font](https://github.com/sk5s/tw-en-open-font)
+4. ✔️ Closed issue [#14](https://github.com/sk5s/countdateapp/issues/14) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+5. 📔 Created new repository [jsolink/jsotranslate](https://github.com/jsolink/jsotranslate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 5th, 2023, 12:24:12 AM
+Last Updated: Saturday, May 6th, 2023, 12:23:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
