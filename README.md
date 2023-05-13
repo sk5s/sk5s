@@ -25,15 +25,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/sk5s/countdateapp/pull/23) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-2. 💪 Opened PR [#23](https://github.com/sk5s/countdateapp/pull/23) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. ❗️ Opened issue [#22](https://github.com/sk5s/countdateapp/issues/22) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-4. ✔️ Closed issue [#16](https://github.com/sk5s/countdateapp/issues/16) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. ✔️ Closed issue [#20](https://github.com/sk5s/countdateapp/issues/20) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ✔️ Closed issue [#22](https://github.com/sk5s/countdateapp/issues/22) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+2. ✌️ Released [v1.5.3](https://github.com/sk5s/countdateapp/releases/tag/v1.5.3) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. 🎉 Merged PR [#23](https://github.com/sk5s/countdateapp/pull/23) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+4. 💪 Opened PR [#23](https://github.com/sk5s/countdateapp/pull/23) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+5. ❗️ Opened issue [#22](https://github.com/sk5s/countdateapp/issues/22) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 12th, 2023, 12:25:49 AM
+Last Updated: Saturday, May 13th, 2023, 12:23:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
