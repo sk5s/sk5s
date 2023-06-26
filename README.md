@@ -25,15 +25,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-2. ✌️ Released [v0.3.0](https://github.com/sk5s/whereisspy/releases/tag/v0.3.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-3. ✌️ Released [v0.2.0](https://github.com/sk5s/whereisspy/releases/tag/v0.2.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-4. ✌️ Released [v0.1.0](https://github.com/sk5s/whereisspy/releases/tag/v0.1.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-5. ✔️ Closed issue [#18](https://github.com/sk5s/countdateapp/issues/18) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+1. ✌️ Released [v2.0.3](https://github.com/sk5s/alsoweather/releases/tag/v2.0.3) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+2. ✌️ Released [v1.5.4](https://github.com/sk5s/countdateapp/releases/tag/v1.5.4) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+3. ⭐ Starred [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
+4. ✌️ Released [v0.3.0](https://github.com/sk5s/whereisspy/releases/tag/v0.3.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
+5. ✌️ Released [v0.2.0](https://github.com/sk5s/whereisspy/releases/tag/v0.2.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 25th, 2023, 12:36:12 AM
+Last Updated: Monday, June 26th, 2023, 12:34:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
