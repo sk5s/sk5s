@@ -25,15 +25,15 @@
 ## ⚡ 活動 Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.6.0](https://github.com/sk5s/whereisspy/releases/tag/v0.6.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-2. ✌️ Released [v1.5.6](https://github.com/sk5s/countdateapp/releases/tag/v1.5.6) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-3. ✌️ Released [v0.5.0](https://github.com/sk5s/whereisspy/releases/tag/v0.5.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
+1. ✌️ Released [v0.7.0](https://github.com/sk5s/whereisspy/releases/tag/v0.7.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
+2. 🎉 Merged PR [#3](https://github.com/sk5s/alsoweather/pull/3) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
+3. 💪 Opened PR [#3](https://github.com/sk5s/alsoweather/pull/3) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
 4. ✌️ Released [v1.5.5](https://github.com/sk5s/countdateapp/releases/tag/v1.5.5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 5. 🎉 Merged PR [#27](https://github.com/sk5s/countdateapp/pull/27) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 29th, 2023, 12:00:35 AM
+Last Updated: Monday, October 30th, 2023, 12:00:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⚒️ 語言與工具 Languages and Tools
