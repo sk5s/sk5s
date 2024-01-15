@@ -2,10 +2,57 @@
 
 ---
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam
+===========================================================================================================================
+
+<!--Web Developer
+-------------
+-->
+I'm Sam, passionate about staying on the cutting edge of technology.
+
+* ✉️  You can contact me at [samko5sam@tutanota.com](mailto:samko5sam@tutanota.com)
+* 🧠  I'm learning Ionic react framework
+
+<a href='https://ko-fi.com/J3J3IM7SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sk5s&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue&hide=contribs,prs&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sk5s&theme=dark&hide_border=true" />
+    <img align="center" src="https://streak-stats.demolab.com?user=sk5s&theme=vue&hide_border=true" alt="GitHub Streak" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=dark&hide=contribs,prs&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue&hide=contribs,prs&hide_border=true&rank_icon=github" />
+  </picture>
 </div>
+
+## 📌 Pinned
+
+<a href="https://github.com/sk5s/countdateapp" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=countdateapp&show_owner=true&theme=dark&description_lines_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=countdateapp&show_owner=true&description_lines_count=3" />
+  </picture>
+</a>
+<a href="https://github.com/sk5s/whereisspy" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=whereisspy&show_owner=true&theme=dark&description_lines_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=whereisspy&show_owner=true&description_lines_count=3" />
+  </picture>
+</a>
+<a href="https://github.com/sk5s/alsoweather" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=alsoweather&show_owner=true&theme=dark&description_lines_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=alsoweather&show_owner=true&description_lines_count=3" />
+  </picture>
+</a>
+<a href="https://github.com/sk5s/sk5s-vsgt" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5s-vsgt&show_owner=true&theme=dark&description_lines_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5s-vsgt&show_owner=true&description_lines_count=3" />
+  </picture>
+</a>
 
 ## ⚡ Activity
 
@@ -21,6 +68,8 @@
 Last Updated: Monday, January 15th, 2024, 12:00:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+---
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,6 +81,4 @@ Last Updated: Monday, January 15th, 2024, 12:00:31 AM
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3IM7SC)
+<!--![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)-->
