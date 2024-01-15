@@ -28,28 +28,24 @@ I'm Sam, passionate about staying on the cutting edge of technology.
 </div>
 
 ## 📌 Pinned
-
 <a href="https://github.com/sk5s/countdateapp" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=countdateapp&show_owner=true&theme=dark&description_lines_count=3" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=countdateapp&show_owner=true&description_lines_count=3" />
   </picture>
 </a>
-
 <a href="https://github.com/sk5s/whereisspy" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=whereisspy&show_owner=true&theme=dark&description_lines_count=3" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=whereisspy&show_owner=true&description_lines_count=3" />
   </picture>
 </a>
-
 <a href="https://github.com/sk5s/alsoweather" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=alsoweather&show_owner=true&theme=dark&description_lines_count=3" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=alsoweather&show_owner=true&description_lines_count=3" />
   </picture>
 </a>
-
 <a href="https://github.com/sk5s/sk5s-vsgt" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sk5s&repo=sk5s-vsgt&show_owner=true&theme=dark&description_lines_count=3" />
