@@ -22,7 +22,7 @@ I'm Sam, passionate about staying on the cutting edge of technology.
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=dark&hide=contribs,prs&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=dark&hide=contribs,prs&hide_border=true&rank_icon=github" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue&hide=contribs,prs&hide_border=true&rank_icon=github" />
   </picture>
 </div>
