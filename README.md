@@ -15,15 +15,18 @@ I'm Sam, passionate about staying on the cutting edge of technology.
 
 <a href='https://ko-fi.com/J3J3IM7SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<div align="center">
-  <picture>
+<div>
+  <!--<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sk5s&theme=dark&hide_border=true" />
     <img align="center" src="https://streak-stats.demolab.com?user=sk5s&theme=vue&hide_border=true" alt="GitHub Streak" />
-  </picture>
-  
+  </picture>-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=dark&hide=contribs,prs&hide_border=true&rank_icon=github" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue&hide=contribs,prs&hide_border=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sk5s&rank_icon=github&show_icons=true&theme=dark&hide=contribs" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=sk5s&show_icons=true&theme=vue&hide=contribs&rank_icon=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&theme=dark&layout=compact&card_width=370" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk5s&theme=vue&layout=compact&card_width=370" />
   </picture>
 </div>
 
