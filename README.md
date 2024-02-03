@@ -1,4 +1,4 @@
-[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.com/)
 
 ---
 
