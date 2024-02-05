@@ -59,11 +59,7 @@ I'm Sam, passionate about staying on the cutting edge of technology.
 ## ⚡ Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.8.0](https://github.com/sk5s/whereisspy/releases/tag/v0.8.0) in [sk5s/whereisspy](https://github.com/sk5s/whereisspy)
-2. 🎉 Merged PR [#3](https://github.com/sk5s/alsoweather/pull/3) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-3. 💪 Opened PR [#3](https://github.com/sk5s/alsoweather/pull/3) in [sk5s/alsoweather](https://github.com/sk5s/alsoweather)
-4. ✌️ Released [v1.5.5](https://github.com/sk5s/countdateapp/releases/tag/v1.5.5) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
-5. 🎉 Merged PR [#27](https://github.com/sk5s/countdateapp/pull/27) in [sk5s/countdateapp](https://github.com/sk5s/countdateapp)
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
