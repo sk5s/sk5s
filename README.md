@@ -1,4 +1,4 @@
-[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.com/)
+[![sk5s site](https://me.sk5s.org/img/sk5s-site.png)](https://sk5s.com/)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam
 ===========================================================================================================================
@@ -75,4 +75,4 @@ I'm Sam, passionate about staying on the cutting edge of technology.
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<!--![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)-->
+<!--![](https://me.sk5s.org/ad/sk5s-project.gif)-->
