@@ -1,15 +1,15 @@
 [![sk5s site](https://me.sk5s.org/img/sk5s-site.png)](https://sk5s.com/)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is sk5s apps
 ===========================================================================================================================
 
 <!--Web Developer
 -------------
 -->
-I'm Sam, passionate about staying on the cutting edge of technology.
+We are sk5s, passionate about staying on the cutting edge of technology.
 
-* ✉️  You can contact me at [samko5sam@tutanota.com](mailto:samko5sam@tutanota.com)
-* 🧠  I'm learning Ionic React framework and Expo
+* ✉️  You can contact us at [service@sk5s.com](mailto:service@sk5s.com)
+* 🧠  Using Ionic React framework and Expo
 
 <!--<a href='https://ko-fi.com/J3J3IM7SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>-->
 
